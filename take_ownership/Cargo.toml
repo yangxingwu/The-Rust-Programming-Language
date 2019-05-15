@@ -1,7 +1,7 @@
 [package]
 name = "memory"
 version = "0.1.0"
-authors = ["yangxingwu <yangxingwu@kuaishou.com>"]
+authors = ["yangxingwu <xingwu.yang@gmail.com>"]
 edition = "2018"
 
 [dependencies]
